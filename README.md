@@ -15,7 +15,14 @@ Resources on large language models (LLMs)
 * https://github.com/Mooler0410/LLMsPracticalGuide
 
 
+## Courses
+
+* https://www.coursera.org/learn/generative-ai-with-llms/
+
 
 ## Contact
 
 Soumya Banerjee
+
+sb2333@cam.ac.uk
+
