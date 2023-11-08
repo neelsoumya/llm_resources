@@ -19,6 +19,8 @@ Resources on large language models (LLMs)
 
 * https://www.coursera.org/learn/generative-ai-with-llms/
 
+* https://www.fast.ai/
+
 
 ## Contact
 
