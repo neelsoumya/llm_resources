@@ -6,6 +6,6 @@ Code examples
 
 ## Installation
 
-``R
+```R
 pip install -r requirements.txt
-``
+```
