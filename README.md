@@ -21,6 +21,9 @@ Resources on large language models (LLMs)
 
 * https://www.fast.ai/
 
+## Run in browser
+
+https://webllm.mlc.ai/
 
 ## Contact
 
