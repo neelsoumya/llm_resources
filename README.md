@@ -21,6 +21,8 @@ Resources on large language models (LLMs)
 
 * https://www.fast.ai/
 
+* https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback
+
 ## Run in browser
 
 https://webllm.mlc.ai/
