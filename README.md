@@ -27,6 +27,11 @@ Resources on large language models (LLMs)
 
 https://webllm.mlc.ai/
 
+https://github.com/imoneoi/openchat
+
+https://openchat.team/
+
+
 ## Contact
 
 Soumya Banerjee
